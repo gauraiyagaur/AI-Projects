@@ -1,3 +1,2 @@
 # AI-Projects
-A repo of my AI projects 
-Currently exploring LLMs, RAG systems, Agentic AI 
+RAG-based AI delivery pipeline and DNN credit risk model built during MSc in Business Analytics & AI at Warwick Business School.
